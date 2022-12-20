@@ -1,0 +1,18 @@
+.d-flex input[type=search]{
+    width: 400px;
+    height: 40px;
+    margin-right: 100px;
+}
+.d-flex button{
+    height: 35px;
+    width: 90px;
+    border-color: black;
+    color: black;
+}
+.nav-item li a{
+    padding-left: 20px;
+
+}
+.col {
+    padding-top: 20px;
+}
